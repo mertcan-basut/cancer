@@ -1,2 +1,2 @@
-# cancer
-Cancer board game in Unity
+# Cancer
+Cancer board game developed in Unity.
